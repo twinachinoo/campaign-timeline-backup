@@ -300,3 +300,55 @@ If your subclass frontloads you six different spells at level 3, I will allow yo
 
 More coming soon…….
 
+# 21/07 - v1.2.1
+## onboarding document tweaks
+- generally aimed at resolving any old lingo that has yet to be updated, and setting clear expectations for the players of this campaign.
+
+Playing in the campaign
+As aforementioned, the role of the DM is to facilitate, administrate, and provide the world for your characters. They cannot guarantee my omnipotence or omniscience for every single nuance of your characters. That is not their job.
+Playing in DnD is a collaborative effort. This is not a linear campaign. There’s no single BBEG to slay. Rather, the story evolves when your characters do, as they grow with the world and the stories within, and make themselves known.
+Rules and ruling
+Sometimes, a specific rule or event might get in the way of game time. If the table cannot find a swift solution for it, the DM will rule it one way for that session, then the table may collectively discuss how to best deal with future occurrences.
+Know your character sheet
+Learn your actions, spells, class or subclass abilities, etc, so that the table can flow into initiative and combat smoothly. Also know how you can utilise them creatively to tackle unorthodox problems they were not designed for.
+Be proactive
+This is a campaign aimed for a generally more mature audience, due to its darker tones and theme. It's not unreasonable to assume that the DM, or anyone at the table, will not babysit you. Be proactive with your character - roleplay their personality, Explore their conflicts, make yourself known in the story. 
+
+# 22/07 - v1.3
+## The noble houses: A huge update
+- the noble houses are a huge part of the Lore of the campaign at large, and may be used in BD lore too.
+
+There are plenty of noble houses that dot the continent, but in the modern era, only 8 have managed to keep their seat in the royal palace. Through cutthroat competition, shady strategy, and ruthless domination, only 8 noble houses have distinguished themselves throughout time.
+known collectively as the noble 8, each house has an iron grip over a sector of commerce. However, whilst their guise is business, their true influence stretch far into the grey areas of jurisdiction and governance. Through a mix of bureaucratic negligence, bribery and nepotism, and an inefficient and incompetent emperor, the houses have found their way into wherever they can find an inch of a power vacuum.
+Not only is their influence expanding, so is their territorial control. It's rare *not* to see an office for each of the houses in each major city, especially those focused on trade. Each office is elegantly decorated, with clerks with seamless smiles, filled with paintings, sculptures and ceramics. They claim they sponsor brilliant artists to pretend they're not just ruthless businessmen. and it works. 
+Of course, not all houses are equal in their greed or control, and the same can be said for those that work within them. 
+the Houses:
+### House Atani: maritime trade & Raw goods
+Atani, birthed from a collective of disillusioned sailors and their captains, became the thing they hated. They began by undercutting the luxury ocean goods market, offering fishermen a chance to sell their produce, whilst creating cheap passage through turbulent oceans. 
+However, as people flocked to them as customers and employees alike, their sheer size and dominance expanded them well across the east coast, granting unparalleled control over maritime operation. As greed began to seep through the ranks, Atani regularly hiked taxes, imposed strict regulations, and squeezed out small businesses. They now effectively govern all sea access on the east coast, holding a scrying eye over the seas, which are notoriously difficult to divide up control of.
+### House Alcazy: Alchemy & Medicine
+Alcazy has access to the most precise instruments, the purest ingredients, and the best scholars, gathered from generations of being prided as the best house for scholars of medicine. talent funnelled to the top, starving out local jobs and ruining any chance of competition. Nearly all major apothecaries across the continent are held by alcazy. healing potions, antitoxins are just their common goods, but you can find nearly anything else in their stores. 
+perhaps the least directly competitive of the houses, choosing intellectual stratification rather than direct competition; but don't be fooled, if there's a coin to be made - and that coin comes from illegal drugs, then you can be sure Alcazy has a hand in it. Alcazy may or may not be behind the dramatic drug pandemics that choke the city's labour, setting people up to suffocate in pleasure.
+### House Merises: Information & education
+The Imperial colleges and libraries suffered from the change in regime. When an emperor comes without much regard for the common folk, then funding cuts to those that turn no profit.
+merises slipped in silently, sponsoring a frightening amount of money with suspiciously simple terms. Where they got that money, and what it's used for - nobody knows, because nobody bothered to ask and just took their cut of the prize. Perhaps Merises exerts their influence through the very books taught to the young, or through careful omission and reinterpretation of important documents. Everything, from what spells mages can learn, what music bards can play, what scriptures clerics can recite, has been filtered through hundreds of Merises's eyes. There is no such thing as free information in the empire.
+### House Celecés: Theatre & performance
+celeces is a family with an endless fondness for the performing arts, setting up prestigious, independent bard colleges across the south. Their theatres are decorated with Red velvet, their galleries built from marble. It's the dream for any aspiring artist to place their work.
+Making it through the competition of Celeces is a decade long marathon. The standards they hold are sky high, and their costs are even higher. Many who make it through aren't necessarily the most talented, just those smart enough to recognise they must promote whatever Celeces wishes. using their prestige and hierarchical standard, people will consume whatever message Celeces broadcasts with its artefacts. Celeces, through institutional prestige and privilege, rots art to its core - it becomes a status symbol, one enough to for people to choose starvation over missing out on their luxury.
+### House Ru Ning: jurisdiction & bureaucracy.
+The only house not directly involved in commerce, Ru ning was weaved from a tight knit of imperial scholars and royal electives alike. Whilst the emperor and his court decree the laws or the orders, they are blind to however Ru distributes, interprets, or enforces what the court says. Their role is an indispensable part of the connection between the tax paying populace and the royal court - yet that also makes them deeply embedded within the exact same court. They effectively influence the things they wish to make it into law
+Ru's members are enigmatic. They never disclose information, almost like their minds are bound by some psychic contract to never spill a word. Scandals are buried instantly, wiped from official records in seconds across the entire empire's land area.
+### House Monous: Industrial extraction & manufacturing
+Monous has a death grip over the Mining sector, sweeping over the iron rich dwarven peaks to the north. Their supply is what lets them churn out a near infinite supply of the equipment for the Imperial army, equipped with flawless plates and a variety of weapons, and aided with siege weapons. 
+They probably won't own your local amateur blacksmith. However, their quality and quantity are so unmatched, people simply prefer to buy from Monous than repair what they already have. That is the precise consumer cycle that locks them into adventuring guilds as indispensable. That reliance - is their greatest tool. Monous is the border between if a fighter is even a viable career pathway for most.
+### House Hereth: land transport & agriculture.
+Hereth was there when the Emperor never bothered to urbanize the countryside, stuck in a bitter cycle of poverty. Hereth built the roads, cleared out the wild beasts, and opened irrigation canals. They not only made these lands accessible - but arable. 
+The control hereth has is not demand - people need food anyway. its supply. It's the Fertilizer, the protection, the very roads that produce are shipped across. Hereth prides itself as being "for the people", boasting cheap prices and being farmer friendly - and in a surprising sense, it lives up to that. It’s a house that doesn’t put itself front and center to compete with the others, but that also means its standing is shaky, and there’s still room for greed.
+
+### House Sagnic: Homeland security
+Sagnic's role is simple. They coordinate the massive imperial army and police, setting up a web of offices across the borders of the empire. Posted across towering walls, sagnic is a constant reminder of the empire's simple decree, "stay out". But these walls and their soldiers serve a mirror purpose - to keep those thinking to flee. 
+Sagnic's information network is as lethal as their crackdowns. Criminals - innocent or guilty, wealthy or poor, are searched and scoured through the empire. In the same ironic way - though this keeps the empire's densely populated hubs safe, it also Radically suppresses dissent and instills a background of fear.
+above are the noble 8, but others exist. Most notably,
+### House Alil: Adventuring guilds
+Not technically a noble house anymore as the lineage died out, but their position in the economics of the empire is too vital to discard. Alil is the background administration for the adventuring guild. 
+adventuring guilds were a pain for the empire before. Ragtag freelancers with as much will to loot and ransack as they were to fight. However, Alil recognised the precise gap between the staunch nobles stuck in their safe palaces and the adventurers fighting tooth and nail for coin. They turned them into cheap, expendable labor, sent out to handle dangerous and inhumane tasks so the empire doesn't have to lift a finger. To this day, young and impressionable adventurers still think they're fighting for their own future, riches, and glory, when they've been reduced to nothing but automated garbage disposal. Their funerals are automated. Their wills are automated. Their property is seized and their legacy left to rot.
