@@ -455,7 +455,7 @@ You can use this feature a number of times equal to your Proficiency Bonus per l
 
 # 24/7 v1.5 - starborn update.
 two updates in a day? what gives?
-- massive lore update to the starborn, giving an otherwise sterile race a wide, and complex array of options. Not just for PCs, but to write into the world lore.
+- massive lore update to the starborn, giving an otherwise sterile race a wide, and complex array of options. Not just for PCs, but to write into the world lore. I can hardly describe the narrative genius at play here.
 - allows for a range of "emotionlessness", allowing characters, Pc or not, to explore what it means to feel something irrational, illogical.
 
 - on the mechanical side, solidifed the race's abilities pretty cleanly. they are unique enough to not be a copy-paste, but follow D&D race building conventions.
@@ -466,9 +466,7 @@ When the pale stars fall across the material plane, some awaken as humanoids - a
 Starborns are exceptionally still and silent, seeming to lack all impulse, irrationality, or compulsion. They're defined by their flawless, if overcompensating, emulating of the brain. they excel at logical functions - rational thought, quantitative calculation, and exceptional memory. Whilst a lack of emotion makes them powerful calculators, it leaves them feeling eternally hollow, literally born without a soul. Though their minds are strong, their bodies are frail. Starborn rarely become aggressive Martials, naturally preferring classes that allow them to consume endless lore.
 
 It important to know that whilst starborn are mostly emotionless, they are not absent minded, or are they supergeniuses; they can still develop cognitive empathy, compassion, or respect, as well as they can choose to manipulate, exploit, or decieve. Their brain is an emulation, though the efficacy of that emulation is determined through their mental stats, and isn't impervious to magical intrusion (charmed, frightened). 
-twinachino [D&D], 
-OP
- — Yesterday at 21:48
+
 as part of that, not all starborn are perfect emulations. From cosmic radiation, to magical interference, to physical deformation, some starborn may hold an inkling of space in their logical minds for illogical emotion. For many, it's a deficit - it simply means they feel nothing but existential loneliness at their pointless existance. 
 
 but for a few of this few - will be flawed enough to feel. deeply, richly, as much as they think. Anomalies, they're called, being washed over with anger, grief, awe - with no words to describe it. So, the logical outcomes are simple: some supress it for their lifetime, it's irrational, so it's impractical. Others, are frightened - fear, a fear of exploring the unknown, of a world stranger than magic. 
