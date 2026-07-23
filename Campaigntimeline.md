@@ -352,3 +352,59 @@ above are the noble 8, but others exist. Most notably,
 ### House Alil: Adventuring guilds
 Not technically a noble house anymore as the lineage died out, but their position in the economics of the empire is too vital to discard. Alil is the background administration for the adventuring guild. 
 adventuring guilds were a pain for the empire before. Ragtag freelancers with as much will to loot and ransack as they were to fight. However, Alil recognised the precise gap between the staunch nobles stuck in their safe palaces and the adventurers fighting tooth and nail for coin. They turned them into cheap, expendable labor, sent out to handle dangerous and inhumane tasks so the empire doesn't have to lift a finger. To this day, young and impressionable adventurers still think they're fighting for their own future, riches, and glory, when they've been reduced to nothing but automated garbage disposal. Their funerals are automated. Their wills are automated. Their property is seized and their legacy left to rot.
+
+## deities: update
+7. Yurun: Yurun is the deity of order, responsible for ensuring the planes and the deities within them are harmonious. They have no power of their own, their power is derived from disorder, and the act to restore order. Perhaps the most “deity-like” of the deities here, Yurun retains a traditional church and cleric order, though they are only represented through symbolism. It’s unknown if they have a physical presence, or is simply a cosmic counterweight that only acts when needed.
+
+## aberrant anomalies
+- some flavourful options for the players and NPCs.
+
+You occasionally receive visions of divine forms with censored faces.
+The color of your blood turns into a deep purple.
+You have nightmares of you, just in a different world.
+You have patterns tattooed or carved into your flesh, with an unknown meaning.
+You have a strange fear of blood.
+You have lightning-scar style violet streaks down your body.
+You hear whispers occasionally of a language you don’t recognise or can decipher.
+Your eyes lack an iris. All you have is a pitch black pupil.
+You stare at the moon when it’s in its full phase, as if in a trance.
+You no longer sleep. You still rest, though, and your senses are inert during rest.
+You can recall vague nostalgia of a past you never lived, but not any people in it.
+Your eyes and hair lose all pigmentation, turning a translucent silver.
+Occasionally, your hearing becomes muffled, as if you were underwater.
+You exhale faint wisps of black mist. They are odorless.
+You see multiple halos around sources of light, even if you don’t have astigmatism.
+Your skin begins to fade in color to a dull, unimpressive grey.
+
+# 23/7 - v1.4
+
+## new race option(s):
+- Starborn race and voidborn subrace added. Thematically flavourful, mechanically unique races, that are a little strong but without a single standout feature.
+
+
+### starborn
+When the pale stars fall across the material plane, some awaken as humanoids - a flawless emulation in nearly every aspect. A lack of blood beneath their skin means they have a particularly faded, almost silver-white appearance regardless of pigment, but beneath is nothing but a crystalline lattice and a lack of all organic biology.
+Starborns are exceptionally still and silent, seeming to lack all impulse, irrationality, or compulsion. They seem to emulate the logical functions of a brain - rational thought, quantitative calculation, and exceptional memory. Whilst a lack of emotion and feeling makes them powerful calculators, it leaves them feeling eternally hollow, literally born without a soul. 
+
+Though their minds are strong, their bodies are frail. Starborn rarely become aggressive Martials, naturally preferring classes that allow them to consume endless lore. 
+
+#### Base Traits
+Ability Score Increase: as per other races. +2, +1.
+Age: starborn are timeless, ageless, and live for millennia. They appear as one age eternally, which seems to be an arbitrary, almost redundant choice.
+Alignment: often preferring neutral. Though, if there’s logical reason to act otherwise, their alignment and morals are fluid.
+Size: Medium. Their bodies mirror human silhouettes, but with faded pigmentation. The specific appearance typically depends on the specific starborn lineage.
+Speed: 30 feet.
+Languages: Through some mysterious reason, you are exceptionally fluent in Common. You may also naturally reconstruct in your mind, another language you frequently hear or see. You can Speak, write, and read in both languages.
+<br>
+**Id impossibility**: you are rarely fooled the same way as primitive human emotions can. You gain advantage on saves against being frightened.
+**Night vigil**: Starborn do not need to sleep, and magic cannot put you to sleep. During a short or long rest, you remain fully conscious and your passive perception is not halved.
+**Aethereal origin**: You know the Light cantrip. Once you reach 3rd level, you can cast the guiding bolt spell once. Once you reach 5th level, you can also cast the moonbeam spell once. 
+You must finish a long rest to cast these spells again with this trait. Intelligence is your spellcasting ability for these spells. If you have the spellcasting or pact magic feature, you may use your class’s spellcasting ability for these spells instead.
+**Silent silhouette**: As a bonus action, you silence the noisy human realm. Until the start of your next turn, no sound can be created within or pass through a 5-foot-radius sphere centered on you that moves with you, as if by the silence spell. You are immune to this effect and can still speak or cast spells normally. 
+You can use this feature a number of times equal to your Proficiency Bonus per long rest.
+
+#### Subrace: Voidstar
+Voidstars are enigmatic starborn. their light is dim and their skin cold to touch, yet they remain softly bioluminescent nonetheless, like the last gasp of a dying star. They remain perfectly rational and logical, yet carry a cold, cynical edge to their calculations.
+
+**Dark aspect**: replaces the aethereal aspect feature: You know the chill touch cantrip. Once you reach 3rd level, you can cast the armor of agathys spell once. Once you reach 5th level, you can also cast the darkness spell once. 
+You must finish a long rest to cast these spells again with this trait. Intelligence is your spellcasting ability for these spells. If you have the spellcasting or pact magic feature, you may use your class’s spellcasting ability for these spells instead.
