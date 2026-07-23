@@ -408,3 +408,17 @@ Voidstars are enigmatic starborn. their light is dim and their skin cold to touc
 
 **Dark aspect**: replaces the aethereal aspect feature: You know the chill touch cantrip. Once you reach 3rd level, you can cast the armor of agathys spell once. Once you reach 5th level, you can also cast the darkness spell once. 
 You must finish a long rest to cast these spells again with this trait. Intelligence is your spellcasting ability for these spells. If you have the spellcasting or pact magic feature, you may use your class’s spellcasting ability for these spells instead.
+
+## v1.4.1
+working on night hunt race. heavy WIP.
+
+### the night hunt
+Whilst the starborn project their humanoid emulations perfectly across their outer husk, the night hunt rarely tries to be anything but vaguely humanoid, purely for the utility of bipedalism. Whether that’s their inherent composition making it practically difficult, or their unwillingness to reduce themselves to an inferior form, is unknown. They appear as an utterly dark silhouette, shrouded by wisps of black mist that seem to endlessly evaporate from their form. They do not have a temperature when touched.
+Their behavior is as unpredictable as their forms. Lacking facial features and body language, it’s very difficult to predict the current emotions or motives that a night hunt may have. Some hold an ingrained, almost unnecessary hatred. Others seem to have no care for what is right or wrong, acting in neither particular regard. Even more seem to be an enigmatic jumble of several personalities fighting for control.
+Base Traits
+Ability Score Increase: as per other races. +2, +1.
+Age: voidborn rarely have a discernable age, being born from the dark of space itself, though they live for centuries, slowly evaporating back into their origin.
+Alignment: unpredictable. They seem to do whatever they wish without much moral or social obligation.
+Size: Medium, but in their metamorphosis feature, they can change size.
+Speed: 30 feet.
+Languages: The night hunt rarely speak directly, as they have no discernible mouth. (psionics WIP)
