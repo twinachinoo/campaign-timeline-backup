@@ -483,3 +483,57 @@ and once a starborn crosses the threshold, into what's considered anomalous - th
 
 Intelligence is your spellcasting ability for this spell. If you possess the Spellcasting or Pact Magic feature, you can choose to use your class’s spellcasting ability instead, and cast this spell with any spell slots you have.
 
+# 24/7 - v1.6 - Night hunt update
+- minor flavour changes to their base traits, but more work needed.
+Ability Score Increase: as per other races. +2, +1.
+Age: night hunt rarely have a discernable age, being born from the dark of space itself, though they live for centuries, slowly evaporating back into their origin.
+Alignment: unpredictable. They seem to do whatever they wish without much moral or social obligation, or follow them to the smallest of loopholes.
+Size: Medium
+Speed: 30 feet.
+Languages: the night hunt knows no languages natively. They may pick up common from their background.
+
+## new race: the seek
+- new race introduced. heavy WIP, thinking about how to write their abilities.
+
+enter, the Seek. The seek are a mortal given name to an engimatic race of cosmic beings, that appear strikingly humanoid but not particularly like any race. they may have pointed, elven ears, on a gnomish complexion, yet with a human's statue. That's because their physical forms are projected psionically of whatever they think a humanoid looks like, which is the cool part of lore that defines them.
+
+the seek do as their name say, they seek. They feed on psionic energy, as they are nearly fully comprised of it. They descend as "psionic herbivores", preferring to take from the fauna of the natural realm then try risk the turbulent thoughts of concious beings. They can often take up jobs as zookeepers, gardeners, or rangers, and nobody would bat an eye. 
+
+their demeanor tends to be calm and collected, naturally, as they rarely possess the agression of a predator and prefer to conserve the energy needed to pilot their husk. but that's the thing - there are Seekers that seek mortal brains. not just their thoughts - the brain mass itself. Fatty, rich in (clean drinking) water, and brimming with things like spells memorised. these are known as Deepseekers, as they often come from much farther away from the mortal realm, travelling great distanes to find a new planet to leech off of. 
+
+### abilities
+
+Psionics: The seek hold a range of psionic abilities. the range of these abilities relies on their psionic range, which is equal to 5 x PB, and have a save DC equal to 8 + your proficiency bonus + intelligence modifier.
+
+telepathy. You can speak telepathically to any creature you can see. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+
+Telekinesis. You can telekinetically manipulate any object you see, treating your intelligence score as your strength score for carrying weight, throw distance, etc. 
+
+Hypnosis: As an action, choose one creature that you can see, and it can see you. it must succeed on a Wisdom saving throw against your psionics save DC or be charmed by you until the end of your next turn. The charmed creature's speed drops to 0, and the creature is incapacitated and visibly dazed.
+you can use hypnosis a number of times equal to your proficiency bonus, per long rest.
+
+psionic ward: you have advantage on saving throws against the frightened condition. When you are hit by an attack roll within 5ft of you, you can deal your PB in psychic damage as psychic feedback to the attacker. you can deal this damage once per turn.
+
+memory transfer: as long as you're talking telepathically with a creature, you select one skill they're proficient in. You retain this proficiency until the telepathic bond is broken.
+
+### seek update v1.6.1
+- after some consideration, the flavour for the seek has been updated.
+
+we'll turn the seek from passive psionic herbivores to something even closer to a humanoid - perhaps a strand of some pre human homonid that chose to spec points into psionics instead. They've always been around, but the recent cosmic interference makes them more obvious.
+
+the seek turn into something closer to a memorykeeper, having access to a grand catalogue of the minds that came before them. 
+
+### features.
+
+**memory transfer**: over the course of a long rest, as long as you're talking telepathically with a creature, you select one skill or weapon they're proficient in. You retain this proficiency until you select another creature or proficiency.
+
+**subconcious sight**: When you take a long rest, your passive perception is not halved.
+
+**archive aspect**: as a Seek, you can tap into the memories passed down through your lineage. as a bonus action, you select one of your two **Archive options**. You can use the archive feature a number of times equal to your Proficiency Bonus per long rest.
+
+**archive: blade**: you can mimic the stored muscle memory of warriors of your lineage. For 1 minute, once per turn, you add your Proficiency Bonus to any damage roll as psionic damage.
+**archive: scroll**: You can access the pooled mass of studied knowledge of your lineage. For 1 minute, you add your Proficiency Bonus to any ability check using a skill you gained from your Memory transfer trait. 
+
+**psionic technique**: whilst not full psions, Seeks naturally incorporate psionic techniques as part of their martial training. You know the gust cantrip. Once you reach 3rd level, you can cast the spell thunderwave. Once you reach 5th level, you can also cast the shatter spell once. You must finish a long rest to cast these spells again with this trait. 
+
+when you cast these spells, you can do so psionically - not requiring any components. Intelligence is your spellcasting ability for these spells. If you have the spellcasting or pact magic feature, you may use your class’s spellcasting ability for these spells instead.
