@@ -422,3 +422,66 @@ Alignment: unpredictable. They seem to do whatever they wish without much moral 
 Size: Medium, but in their metamorphosis feature, they can change size.
 Speed: 30 feet.
 Languages: The night hunt rarely speak directly, as they have no discernible mouth. (psionics WIP)
+
+## v1.4.2 
+- refined the starborn race. it felt like the silent silhouette was better suited for the voidstar.
+- instead of a generic set of spells, gives them the option to fire off guiding bolts.
+- changed frightened immunity into radiant resistance. Making them a more unique race option overral rather than copy pasting the fey ability.
+- expertise is limited to intelligence, which has some good skills, but nothing crazy like perception or stealth.
+
+## Base Traits
+Ability Score Increase: as per other races. +2, +1.
+Age: starborn are timeless, ageless, and live for millennia. They appear as one age eternally, which seems to be an arbitrary, almost redundant choice.
+Alignment: often preferring neutral. Though, if there’s logical reason to act otherwise, their alignment and morals are fluid.
+Size: Medium. Their bodies mirror human silhouettes, but with faded pigmentation. The specific appearance typically depends on the specific starborn lineage.
+Speed: 30 feet.
+Languages: Through some mysterious reason, you are exceptionally fluent in Common. You may also naturally reconstruct in your mind, another language you frequently hear or see. You can Speak, write, and read in both languages.
+--- (WIP)
+**Id impossibility**:  you have a raw computational ability above any humanoid. Select one intelligence-based skill to gain proficiency in. If you already have proficiency in your chosen skill, you gain expertise.
+**Night star**: The mind of a starborn is eternally active. starborn do not require sleep, and cannot be put to sleep by magic; When you take a long rest, your passive perception is not halved.
+**Abjure akin**: You are constructed of the same celestial energy as radiant magic. you gain resistance to Radiant damage.
+**Aethereal origin**: you can manifest wisps of your own radiance and hurl them like falling stars. You can cast the Guiding Bolt spell a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a long rest. 
+
+Intelligence is your spellcasting ability for this spell. If you possess the Spellcasting or Pact Magic feature, you can choose to use your class’s spellcasting ability instead, and cast this spell with any spell slots you have.
+
+## Subrace: Voidstar 
+Voidstars are enigmatic starborn. their light is dim and their skin cold to touch, yet they remain softly bioluminescent nonetheless, like the last gasp of a dying star. They remain perfectly rational and logical, yet carry a cold, cynical edge to their calculations.
+
+**Dark aspect**: replaces the **aethereal aspect** feature: You know the chill touch cantrip. Once you reach 3rd level, you can cast the armor of agathys spell once. Once you reach 5th level, you can also cast the darkness spell once. 
+You must finish a long rest to cast these spells again with this trait. Intelligence is your spellcasting ability for these spells. If you have the spellcasting or pact magic feature, you may use your class’s spellcasting ability for these spells instead.
+
+**Silent silhouette**: Replaces the **abjure akin** feature: As a bonus action, you silence the area around you. Until the start of your next turn, no sound can be created within or pass through a 5-foot-radius sphere centered on you that moves with you, as if by the silence spell. You are immune to this effect and can still speak or cast spells normally. 
+You can use this feature a number of times equal to your Proficiency Bonus per long rest.
+
+# 24/7 v1.5 - starborn update.
+two updates in a day? what gives?
+- massive lore update to the starborn, giving an otherwise sterile race a wide, and complex array of options. Not just for PCs, but to write into the world lore.
+- allows for a range of "emotionlessness", allowing characters, Pc or not, to explore what it means to feel something irrational, illogical.
+
+- on the mechanical side, solidifed the race's abilities pretty cleanly. they are unique enough to not be a copy-paste, but follow D&D race building conventions.
+
+### starborn description
+When the pale stars fall across the material plane, some awaken as humanoids - a flawless emulation in near every aspect. A lack of blood beneath their skin means they have a particularly faded, almost silver-white appearance regardless of pigment, but beneath is nothing but a crystalline lattice and a lack of all organic biology.
+
+Starborns are exceptionally still and silent, seeming to lack all impulse, irrationality, or compulsion. They're defined by their flawless, if overcompensating, emulating of the brain. they excel at logical functions - rational thought, quantitative calculation, and exceptional memory. Whilst a lack of emotion makes them powerful calculators, it leaves them feeling eternally hollow, literally born without a soul. Though their minds are strong, their bodies are frail. Starborn rarely become aggressive Martials, naturally preferring classes that allow them to consume endless lore.
+
+It important to know that whilst starborn are mostly emotionless, they are not absent minded, or are they supergeniuses; they can still develop cognitive empathy, compassion, or respect, as well as they can choose to manipulate, exploit, or decieve. Their brain is an emulation, though the efficacy of that emulation is determined through their mental stats, and isn't impervious to magical intrusion (charmed, frightened). 
+twinachino [D&D], 
+OP
+ — Yesterday at 21:48
+as part of that, not all starborn are perfect emulations. From cosmic radiation, to magical interference, to physical deformation, some starborn may hold an inkling of space in their logical minds for illogical emotion. For many, it's a deficit - it simply means they feel nothing but existential loneliness at their pointless existance. 
+
+but for a few of this few - will be flawed enough to feel. deeply, richly, as much as they think. Anomalies, they're called, being washed over with anger, grief, awe - with no words to describe it. So, the logical outcomes are simple: some supress it for their lifetime, it's irrational, so it's impractical. Others, are frightened - fear, a fear of exploring the unknown, of a world stranger than magic. 
+
+But few of the few, of the few, will think, think deeply, not just feel, their emotions. They will question them, grapple with them, test them. starborn of this rarity are considered anomalies, but perhaps they are the most flawless emulation of a different brain - the full human brain, with all of its flaws intentional. what does it mean to be noble when sacrifice is illogical? why does love ache the heart? Why preserve honor for you in the present, and a legacy of you for the future? what is beauty? art? 
+
+and once a starborn crosses the threshold, into what's considered anomalous - there's often no way back. no way to go but forward, deeper into the dark ocean of unpredictable, yet endlessly deep emotion.
+
+### starborn abilities
+**Id impossibility**:  you have a raw computational ability above any humanoid. Select one intelligence-based skill to gain proficiency in. If you already have proficiency in your chosen skill, you gain expertise.
+**Night star**: The mind of a starborn is eternally active. starborn do not require sleep, and cannot be put to sleep by magic; When you take a long rest, your passive perception is not halved.
+**Abjure akin**: You are constructed of the same celestial energy as radiant magic. you gain resistance to Radiant damage.
+**Aethereal origin**: you can manifest wisps of your own radiance and hurl them like falling stars. You can cast the Guiding Bolt spell a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a long rest. 
+
+Intelligence is your spellcasting ability for this spell. If you possess the Spellcasting or Pact Magic feature, you can choose to use your class’s spellcasting ability instead, and cast this spell with any spell slots you have.
+
