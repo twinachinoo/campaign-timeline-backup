@@ -523,17 +523,51 @@ we'll turn the seek from passive psionic herbivores to something even closer to 
 
 the seek turn into something closer to a memorykeeper, having access to a grand catalogue of the minds that came before them. 
 
+### the seek
+The seek, singular "seeker", are memory keepers. They were sent roughly 10,000 years ago to the material plane before the modern era, for a mission whose original purpose is truly lost to time. Seeks found the humans curious - bold, brash, and utterly original, and saught to seek the memories of this once-of-a-kind species. 
+
+Humans were the only ones with enough ambition to build societies, revolutionise technology, learn magic, and more. and during their documentation, many seek continued to live amongst the humans, later practically *as* a human. Eventually, the seeks all but assimilated into human society. their mental gifts are still seen throughout the general population.
+
+However, though they may have lost their original, unknown appearance, a modern seek is distinguished through their mind.
+
+a seek is never alone in their mind, but holding the weight of an unknown length of predecessors and their knowledge. Their minds are libraries, lined with walls and walls of it. though many seek still hold onto their traditional roles, others seek things past just memories. New knowledge, experiences, insights, magic - a seek is an endlessly curious scholar for more memories.
+
+The memories were traditionally stored in the brain, but modern seeks are seen with pearlescent blood under their skin, with blips of color visible travelling through them. their whole body has been long transformed to store and process, and that is precisely where a seek draws their innate power.
+
+All seeks can sense each other's memories through a vast, universal psionic sea, where past, present, and future blur. This sea, with an expanse that takes a fractal dimension, could be navigated for infintely long with no results. However, what memories to surface - the thin 1%, are what seeks can draw from when they rest and recallibrate their minds.
+
+Seeks often may organise themselves into orders to find whatever it is that most interests them. This is represented by the subraces tab, where different seeks with different mental focuses have developed genuinely different appearances, personalities, and access to magical knowledge over time.
+
 ### features.
 
-**memory transfer**: over the course of a long rest, as long as you're talking telepathically with a creature, you select one skill or weapon they're proficient in. You retain this proficiency until you select another creature or proficiency.
+**memory transfer**: over the course of a long rest, you establish a psionic link with another creature. Outside of transferring normal memories, you may select one skill or weapon they're proficient in. You retain this proficiency until you select another creature or proficiency. 
 
-**subconcious sight**: When you take a long rest, your passive perception is not halved.
+Alternatively, you provide them with one of your proficiencies, which they retain until you select another creature or proficiency. No creature can ever have more than one loaned proficiency this way.
 
-**archive aspect**: as a Seek, you can tap into the memories passed down through your lineage. as a bonus action, you select one of your two **Archive options**. You can use the archive feature a number of times equal to your Proficiency Bonus per long rest.
+**source superposition**: Your connection to the universal psionic sea allows you to temporarily pull magic into your own mind. Whenever you finish a long rest, and select one spell from the two schools of magic of your subrace:
 
-**archive: blade**: you can mimic the stored muscle memory of warriors of your lineage. For 1 minute, once per turn, you add your Proficiency Bonus to any damage roll as psionic damage.
-**archive: scroll**: You can access the pooled mass of studied knowledge of your lineage. For 1 minute, you add your Proficiency Bonus to any ability check using a skill you gained from your Memory transfer trait. 
+At Level 1: You can choose a Cantrip.
+At Level 3: You can choose a Cantrip or a 1st-level spell.
+At Level 5: You can choose a Cantrip, a 1st-level spell, or a 2nd-level spell.
 
-**psionic technique**: whilst not full psions, Seeks naturally incorporate psionic techniques as part of their martial training. You know the gust cantrip. Once you reach 3rd level, you can cast the spell thunderwave. Once you reach 5th level, you can also cast the shatter spell once. You must finish a long rest to cast these spells again with this trait. 
+the spell is considered a *known* spell for you until you finish your next long rest. Intelligence is your spellcasting ability for it. If you have the Spellcasting or Pact Magic feature, you can also cast the chosen spell using your class's spell slots, and it uses your class's spellcasting ability instead
 
-when you cast these spells, you can do so psionically - not requiring any components. Intelligence is your spellcasting ability for these spells. If you have the spellcasting or pact magic feature, you may use your class’s spellcasting ability for these spells instead.
+**Psychic sense**: A seek can cast the spell Detect thoughts once per long rest, as a psionic spell. when they do, they do not require components.
+
+# 02/08. focus on Latis city.
+Finalized an early version of a city map for Latis city, including the districts, the important sights, and more. Currently, the map includes:
+- the main palace
+- the guild hall
+- the auction house
+- the atani manor
+- the arcane academia
+- the tollhouse
+- the library
+- the towers
+- airship station
+- sagnic military grounds
+  
+still requring...
+- grand bazaar
+- hereth manor
+- alcazy greenhouse
